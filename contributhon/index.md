@@ -19,7 +19,7 @@
  - 각 이슈에는 상세한 요건과 구현 방법이 설명되어 있습니다.
 
 ## 컨트리뷰톤 일정
-3월 1일부터 4월 1일까지 한달간
+3월 8일부터 4월 20일까지 6주간
 
 ## 참가자 혜택
  - [Gitter](https://gitter.im/paper-contributhon/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)를 통한 온라인 멘토링 (컨트리뷰션을 떠 먹여 드립니다.)
