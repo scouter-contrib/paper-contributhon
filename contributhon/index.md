@@ -11,7 +11,7 @@
  - 토폴로지와 대시보드 및 어플리케이션 트레이싱을 제공합니다.
  - 오픈소스 APM인 [스카우터](https://github.com/scouter-project/scouter)와 성능 메트릭 수집기인 [텔레그라프](https://www.influxdata.com/time-series-platform/telegraf/) 및 [Zipkin](https://zipkin.io/)에서 수집된 정보를 사용자가 원하는 형태로 구성하여 모니터링 하게 됩니다.
  - 보다 자세한 정보는 [영상](https://youtu.be/NjJ0dGhdIbU)과 [사이트](https://scouter-contrib.github.io/scouter-paper/)를 통해 확인하세요.
- - 2018 공개소프트웨어대회에서 대상을 수상하였습니다. ([https://goo.gl/jRKhaa](https://goo.gl/jRKhaa))
+ - 2018 공개소프트웨어대회에서 대상을 수상하였습니다.([https://goo.gl/jRKhaa](https://goo.gl/jRKhaa))
 
 ### 컨트리뷰톤이란?
 주어진 기간동안 정해진 방식으로 특정 오픈 소스에 소스등을 기여하는 행사를 말합니다.  
@@ -33,7 +33,8 @@
 ## 참가 방법
  - 먼저 Gitter를 통해 참가 신청을 합니다.
    - 그냥 아래 Gitter 배지를 클릭하여, Gitter의 contributon 방에 참여한 후 인사를 하고 참여 의사를 밝혀 주시면 됩니다. :)
-   - [![Gitter](https://badges.gitter.im/paper-contributhon/community.svg)](https://gitter.im/paper-contributhon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+   - 이거 => [![Gitter](https://badges.gitter.im/paper-contributhon/community.svg)](https://gitter.im/paper-contributhon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+     - 참여 의사를 밝히시면 컨트리뷰톤 [Score Board](./score-board.md)에 github 계정 정보가 게시됩니다. 원치 않으시면 미리 말씀해주세요.
 
  - Github의 scouter-paper 레포지토리를 개인 저장소로 포크한 후에 로컬로 클론하여 체크아웃 합니다.
    - Github을 통한 컨트리뷰션이 처음이라면 이 [글(GihHub-프로젝트에-기여하기)](https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0)을 참고하세요.
@@ -52,14 +53,14 @@
    - Scouter나 Web API등에 대해서는 GunLee에게 질문합니다.
 
  - 개발이 완료되면 본인의 레포지토리로 커밋 후에 Scouter-Paper 저장소로 Pull Request를 요청합니다.
- - 코드 리뷰가 진행되고 필요시 수정을 요청합니다. 머지할 수준의 코드가 되었다면 리뷰어가 LGTM을 코멘트하고 중앙 저장소로 머지가 됩니다. 머지가 되면 포인트가 부여되고 [컨트리뷰톤 스코어보드]()에 정보(Github의 닉네임, 이메일, 점수, 랭킹)가 게제 됩니다.
+ - 코드 리뷰가 진행되고 필요시 수정을 요청합니다. 머지할 수준의 코드가 되었다면 리뷰어가 LGTM을 코멘트하고 중앙 저장소로 머지가 됩니다. 머지가 되면 포인트가 부여되고 [컨트리뷰톤 스코어보드](./score-board.md)에 정보(Github의 닉네임, 이메일, 점수, 랭킹)가 게제 됩니다.
 
 ## 스카우터 페이퍼 기술셋 & ?
-스카우터 페이퍼는 React & D3로 개발된 순수 프론트엔드 어플리케이션입니다. 
-스카우터에서 제공하는 Web API를 연동하여 조회딘 성능 메트릭 데이터를 대시보드나 토폴로지 등을 사용하여 보여주게 됩니다. 
+스카우터 페이퍼는 React & D3로 개발된 순수 프론트엔드 어플리케이션입니다.  
+스카우터에서 제공하는 Web API를 연동하여 조회딘 성능 메트릭 데이터를 대시보드나 토폴로지 등을 사용하여 보여주게 됩니다.  
 나는 React를 잘 모르는데? 나는 프론트엔드 개발자가 아닌데? 라고 겁먹지 마시고 일단 참여해 보세요.
-스카우터 페이퍼는 백엔드 출신의 개발자가 React를 공부하면서 만든 어플리케이션입니다. 
-프론트엔드 개발자라면 더 좋은 구성으로 기여할 수 있을 것이고, React가 처음이라면 혹은 GitHub을 통한 소스기여가 처음이라면 여기서 같이 공부하면서 기여해보세요. 막히는 부분은 Gitter를 통해 질문하면 언제라도 도와드립니다. 
+스카우터 페이퍼는 백엔드 출신의 개발자가 React를 공부하면서 만든 어플리케이션입니다.  
+프론트엔드 개발자라면 더 좋은 구성으로 기여할 수 있을 것이고, React가 처음이라면 혹은 GitHub을 통한 소스기여가 처음이라면 여기서 같이 공부하면서 기여해보세요. 막히는 부분은 Gitter를 통해 질문하면 언제라도 도와드립니다.  
 
 ## 컨트리뷰톤 참여하기.
 이렇게 해보세요.
