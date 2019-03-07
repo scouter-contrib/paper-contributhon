@@ -9,8 +9,9 @@
 |2|-|[mindplates](https://github.com/mindplates)|0.1|
 
 ### Participants
-[gunlee01](https://github.com/gunlee01)  
-[mindplates](https://github.com/mindplates)  
-[sebuls](https://github.com/sebuls)  
-[moreal](https://github.com/moreal)  
-[2cycle](https://github.com/2cycle)  
+* [gunlee01](https://github.com/gunlee01)  
+  - `SNOW`, `B612`, `ZEPETO` 백엔드 개발자입니다. 여가 시간을 활용하여 **Scouter**를 개발하고 있습니다. **Scouter** 많이 사용해 주시고 `SNOW`, `B612`, `ZEPETO`도 많이 사랑해 주세효~~~
+* [mindplates](https://github.com/mindplates)  
+* [sebuls](https://github.com/sebuls)  
+* [moreal](https://github.com/moreal)  
+* [2cycle](https://github.com/2cycle)  
