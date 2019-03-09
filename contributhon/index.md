@@ -21,6 +21,7 @@
 
 ## 컨트리뷰톤 일정
 3월 8일부터 4월 20일까지 6주간
+ - Pull Request 일정입니다.(PR 후 리뷰 및 머지는 그 이후 일정으로 진행되어도 무방합니다.)
 
 ## 참가자 혜택
  - [Gitter](https://gitter.im/paper-contributhon/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)를 통한 온라인 멘토링 (컨트리뷰션을 떠 먹여 드립니다.)
