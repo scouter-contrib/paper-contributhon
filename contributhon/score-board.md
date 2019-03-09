@@ -20,4 +20,4 @@
 * [voyagerwoo](https://github.com/voyagerwoo)  
 * [Ta2Rim](https://github.com/Ta2Rim)  
 * [kwonsye](https://github.com/kwonsye)  
-* [diqtpql84](https://github.com/diqtpql84)  
+* [kyungseop](https://github.com/kyungseop)  
