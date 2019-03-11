@@ -34,11 +34,13 @@
  - 스카우터에도 관심있으시다면 스카우터의 개발에도 참여하실 수 있습니다.
 
 ## 참가 방법
- - 먼저 Gitter를 통해 참가 신청을 합니다.
+ - 먼저 Gitter와 Email을 통해 참가 신청을 합니다.
    - 그냥 아래 Gitter 배지를 클릭하여, Gitter의 contributon 방에 참여한 후 인사를 하고 참여 의사를 밝혀 주시면 됩니다. :)
    - 이거 => [![Gitter](https://badges.gitter.im/paper-contributhon/community.svg)](https://gitter.im/paper-contributhon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
      - 참여 의사를 밝히시면 컨트리뷰톤 [Score Board](./score-board.md)에 github 계정 정보가 게시됩니다. 원치 않으시면 미리 말씀해주세요.
-
+   - 행사 진행사항 공지 발송등을 위해서 email이 필요합니다. 아래 email로 github ID와 연락가능한 **email**을 보내주세요.
+     - gunlee01@gmail.com
+   
  - Github의 scouter-paper 레포지토리를 개인 저장소로 포크한 후에 로컬로 클론하여 체크아웃 합니다.
    - Github을 통한 컨트리뷰션이 처음이라면 이 [글(GihHub-프로젝트에-기여하기)](https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0)을 참고하세요.
 
