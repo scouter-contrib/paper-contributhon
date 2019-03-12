@@ -3,13 +3,13 @@
 [![Join the chat at https://gitter.im/paper-contributhon/community](https://badges.gitter.im/paper-contributhon/community.svg)](https://gitter.im/paper-contributhon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## [SCOUTER PAPER](https://github.com/scouter-contrib/scouter-paper) 커미터 프로그램을 시작합니다.
-![이게 뭔가요?](./bg-small.png)
+![이게 뭔가요?](./contributhon/bg-small.png)
 
 컨트리뷰톤을 시작으로 스카우터 페이퍼 커미터 프로그램이 진행됩니다. 
 컨트리뷰톤에 참여하여 오픈소스에 기여하는 경험도 하고 스카우터에서 제공하는 기념품도 받아가세요. 
 
 ## 스카우터 페이퍼가 뭔가요?, 컨트리뷰톤이 뭔가요?
-![이게 뭔가요?](./paper-is-not-food-small.png)
+![이게 뭔가요?](./contributhon/paper-is-not-food-small.png)
 
 ### [스카우터 페이퍼](https://scouter-contrib.github.io/scouter-paper/)는 오픈소스 모니터링 대시보드입니다.
  - 토폴로지와 대시보드 및 어플리케이션 트레이싱을 제공합니다.
@@ -31,7 +31,7 @@
 ## 참가자 혜택
  - [Gitter](https://gitter.im/paper-contributhon/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)를 통한 온라인 멘토링 (컨트리뷰션을 떠 먹여 드립니다.)
    - 오픈소스에 컨트리뷰션 하는 과정을 배워보세요.
- - 1 포인트 달성시 [스카우터 굿즈](./scouter-goods.md)(후드티) 증정 (2 point 달성시 추가 굿즈~)
+ - 1 포인트 달성시 [스카우터 굿즈](./contributhon/scouter-goods.md)(후드티) 증정 (2 point 달성시 추가 굿즈~)
  - 행사 이후에는 오프라인 모임이 있습니다. 원하시는 분들은 참석 하실 수 있습니다.
  - 1 포인트 이상 컨트리뷰션한 분들은 커미터 프로그램에 참여할 수 있습니다.
  - 커미터가 되시면 스카우터 페이퍼의 의사 결정에 참여할 수 있으며, 커밋 권한을 가지게 됩니다. 또한 [공식 페이지의 프로필](https://scouter-contrib.github.io/scouter-paper/index.html#people-who-make)에 게재됩니다.
@@ -41,7 +41,7 @@
  - 먼저 Gitter와 Email을 통해 참가 신청을 합니다.
    - 그냥 아래 Gitter 배지를 클릭하여, Gitter의 contributon 방에 참여한 후 인사를 하고 참여 의사를 밝혀 주시면 됩니다. :)
    - 이거 => [![Gitter](https://badges.gitter.im/paper-contributhon/community.svg)](https://gitter.im/paper-contributhon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-     - 참여 의사를 밝히시면 컨트리뷰톤 [Score Board](./score-board.md)에 github 계정 정보가 게시됩니다. 원치 않으시면 미리 말씀해주세요.
+     - 참여 의사를 밝히시면 컨트리뷰톤 [Score Board](./contributhon/score-board.md)에 github 계정 정보가 게시됩니다. 원치 않으시면 미리 말씀해주세요.
    - 행사 진행사항 공지 발송등을 위해서 email이 필요합니다. 아래 email로 github ID와 연락가능한 **email**을 보내주세요.
      - gunlee01@gmail.com
    
@@ -50,7 +50,7 @@
 
  - scouter-paper를 개발하기 위한 개발 환경을 구성합니다.
    - 그냥 npm install & npm run start 만 하면 됩니다.
-   - 상세한 내용은 [개발환경 구성 및 데모 환경 연결](./preparing-development.md)을 참고하세요.
+   - 상세한 내용은 [개발환경 구성 및 데모 환경 연결](./contributhon/preparing-development.md)을 참고하세요.
 
  - 준비가 끝나면 [Github에 등록된 이슈들](https://github.com/scouter-contrib/scouter-paper/issues)을 확인하고, 해결할 이슈를 선택하여 작업하시면 됩니다.
    - 각 이슈에는 요건과 개발 방법이 설명되어 있습니다.
@@ -78,7 +78,7 @@ Gitter는 항상 열려 있습니다.
 이렇게 해보세요.
  - [소개 동영상](https://youtu.be/NjJ0dGhdIbU)을 보고 스카우터 페이퍼가 어떤 어플리케이션인지 확인해보세요.
  - GitHub에 [등록된 이슈](https://github.com/scouter-contrib/scouter-paper/issues)들을 보고 개발할 이슈를 정해보세요.
- - [개발환경 구성 가이드](./preparing-development.md)를 보고 개발 환경을 구성해보세요.
+ - [개발환경 구성 가이드](./contributhon/preparing-development.md)를 보고 개발 환경을 구성해보세요.
  - [Gitter](https://gitter.im/paper-contributhon/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)에서 참여 의사를 밝혀주세요.
    - [![Gitter](https://badges.gitter.im/paper-contributhon/community.svg)](https://gitter.im/paper-contributhon/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
