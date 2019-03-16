@@ -5,8 +5,10 @@
 ### Top 10 
 |Ranking|Github Icon|Github ID|Contribution Score|
 |:----:|:----:|:----:|:----:|
-|1|![](https://avatars1.githubusercontent.com/u/6788732?s=60&v=4)|[gunlee01](https://github.com/gunlee01)|0.1|
-|2|-|[mindplates](https://github.com/mindplates)|0.1|
+|1|![](https://avatars1.githubusercontent.com/u/41318449?s=60&v=4)|[Ta2Rim](https://github.com/Ta2Rim)|1.5|
+|2|-|[kranian](https://github.com/kranian)|1.0|
+|3|![](https://avatars1.githubusercontent.com/u/6788732?s=60&v=4)|[gunlee01](https://github.com/gunlee01)|0.1|
+|4|-|[mindplates](https://github.com/mindplates)|0.1|
 
 ### Participants
 * [gunlee01](https://github.com/gunlee01)  
