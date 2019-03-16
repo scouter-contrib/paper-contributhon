@@ -3,12 +3,12 @@
 참여하고 기여해 주신 모든 분들께 감사드립니다.
 
 ### Top 10 
-|Ranking|Github Icon|Github ID|Contribution Score|
-|:----:|:----:|:----:|:----:|
-|1|![](https://avatars1.githubusercontent.com/u/41318449?s=60&v=4)|[Ta2Rim](https://github.com/Ta2Rim)|1.5|
-|2|-|[kranian](https://github.com/kranian)|1.0|
-|3|![](https://avatars1.githubusercontent.com/u/6788732?s=60&v=4)|[gunlee01](https://github.com/gunlee01)|0.1|
-|4|-|[mindplates](https://github.com/mindplates)|0.1|
+|Ranking|Github Icon|Github ID|Contribution Score|Pull Requests|
+|:----:|:----:|:----:|:----:|:----:|
+|1|![](https://avatars1.githubusercontent.com/u/41318449?s=60&v=4)|[Ta2Rim](https://github.com/Ta2Rim)|1.5|[PRs from Ta2Rim](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ATa2Rim+)|
+|2|-|[kranian](https://github.com/kranian)|1.0|[PRs from kranian](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Akranian+)|
+|3|![](https://avatars1.githubusercontent.com/u/6788732?s=60&v=4)|[gunlee01](https://github.com/gunlee01)|0.1|-|
+|4|-|[mindplates](https://github.com/mindplates)|0.1|-|
 
 ### Participants
 * [gunlee01](https://github.com/gunlee01)  
