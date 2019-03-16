@@ -1,6 +1,6 @@
 ## SCOUTER PAPER Contributhon 2019 Score Board
 
-참여하고 기여해 주신 모든 분들께 감사드립니다.
+[SCOUTER PAPER](https://scouter-contrib.github.io/scouter-paper/) [컨트리뷰톤](https://github.com/scouter-contrib/paper-contributhon/blob/master/contributhon/index.md)에 참여하고 기여해 주신 모든 분들께 감사드립니다.
 
 ### Top 10 
 |Ranking|Github Icon|Github ID|Contribution Score|Pull Requests|
