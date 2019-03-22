@@ -5,10 +5,12 @@
 ### Top 10 
 |Ranking|Github Icon|Github ID|Contribution Score|Pull Requests|
 |:----:|:----:|:----:|:----:|:----:|
-|1|-|[kranian](https://github.com/kranian)|2.0|[PRs from kranian](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Akranian+)|
+|1|-|[kranian](https://github.com/kranian)|3.5|[PRs from kranian](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Akranian+)|
 |2|![](https://avatars1.githubusercontent.com/u/41318449?s=60&v=4)|[Ta2Rim](https://github.com/Ta2Rim)|1.5|[PRs from Ta2Rim](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ATa2Rim+)|
-|3|![](https://avatars1.githubusercontent.com/u/6788732?s=60&v=4)|[gunlee01](https://github.com/gunlee01)|0.1|-|
-|4|-|[mindplates](https://github.com/mindplates)|0.1|-|
+|3|![](https://avatars3.githubusercontent.com/u/1849824?s=60&v=4)|[voyagerwoo](https://github.com/voyagerwoo)|1.0|[PRs from voyagerwoo](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Avoyagerwoo+)|
+|4|-|[kyungseop](https://github.com/kyungseop)|0.5|[PRs from kyungseop](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Akyungseop+)|
+|5|![](https://avatars1.githubusercontent.com/u/6788732?s=60&v=4)|[gunlee01](https://github.com/gunlee01)|0.1|-|
+|6|-|[mindplates](https://github.com/mindplates)|0.1|-|
 
 ### Participants
 * [gunlee01](https://github.com/gunlee01)  
