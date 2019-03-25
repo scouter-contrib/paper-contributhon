@@ -34,3 +34,5 @@
 * [h2m8n](https://github.com/h2m8n)  
 * [hue9010](https://github.com/hue9010)  
 * [koamania](https://github.com/koamania)  
+* [idess](https://github.com/idess)  
+
