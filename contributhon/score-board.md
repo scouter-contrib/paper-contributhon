@@ -6,7 +6,7 @@
 |Ranking|Github Icon|Github ID|Contribution Score|Pull Requests|
 |:----:|:----:|:----:|:----:|:----:|
 |1|-|[kranian](https://github.com/kranian)|4.0|[PRs from kranian](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Akranian+)|
-|2|-|[david100gom](https://github.com/david100gom)|2.0|[PRs from david100gom](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid100gom+)|
+|2|![](https://avatars2.githubusercontent.com/u/13757297?s=88&v=4)|[david100gom](https://github.com/david100gom)|2.0|[PRs from david100gom](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid100gom+)|
 |3|![](https://avatars1.githubusercontent.com/u/41318449?s=60&v=4)|[Ta2Rim](https://github.com/Ta2Rim)|1.5|[PRs from Ta2Rim](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ATa2Rim+)|
 |4|-|[idess](https://github.com/idess)|1.5|[PRs from idess](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aidess+)|
 |5|![](https://avatars3.githubusercontent.com/u/1849824?s=60&v=4)|[voyagerwoo](https://github.com/voyagerwoo)|1.0|[PRs from voyagerwoo](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Avoyagerwoo+)|
