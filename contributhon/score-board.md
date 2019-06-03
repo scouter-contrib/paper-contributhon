@@ -10,7 +10,7 @@
 |3|![](https://avatars1.githubusercontent.com/u/41318449?s=60&v=4)|[Ta2Rim](https://github.com/Ta2Rim)|1.5|[PRs from Ta2Rim](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ATa2Rim+)|
 |4|-|[idess](https://github.com/idess)|1.5|[PRs from idess](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aidess+)|
 |5|![](https://avatars3.githubusercontent.com/u/1849824?s=60&v=4)|[voyagerwoo](https://github.com/voyagerwoo)|1.0|[PRs from voyagerwoo](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Avoyagerwoo+)|
-|6|-|[June-Young](https://github.com/June-Young)|0.5|[PRs from June-Young](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3AJune-Young+)|
+|6|-|[June-Young](https://github.com/June-Young)|1.0|[PRs from June-Young](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3AJune-Young+)|
 |7|-|[uuuusssseeeerrrr](https://github.com/uuuusssseeeerrrr)|0.5|[PRs from uuuusssseeeerrrr](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Auuuusssseeeerrrr+)|
 |8|-|[kyungseop](https://github.com/kyungseop)|0.5|[PRs from kyungseop](https://github.com/scouter-contrib/scouter-paper/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Akyungseop+)|
 |9|![](https://avatars1.githubusercontent.com/u/6788732?s=60&v=4)|[gunlee01](https://github.com/gunlee01)|0.1|-|
